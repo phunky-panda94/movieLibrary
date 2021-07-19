@@ -1,4 +1,4 @@
-import { Movie, addMovie, displayMovies, updateMovies } from "/js/movie.js";
+import { Movie, addMovie, displayMovies, updateMovies } from "/movie.js";
 
 const form = document.getElementById('form');
 const modal = document.getElementById('modal');
